@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "pre-push": ["invalid"],
+  "pre-push": ["test"],
   "devDependencies": {
     "git-prepush-hook": "^1.0.2"
   }
